@@ -1,0 +1,9 @@
+gymnasium==0.29.1
+gymnasium[mujoco]
+matplotlib==3.7.5
+numpy==1.24.4
+pandas==2.0.3
+seaborn==0.13.2
+torch==2.2.2
+torchaudio==2.2.2
+torchvision==0.17.2
